@@ -31,8 +31,8 @@ YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 
 
 
 [Contributor]
-HoChan Byun
-JunYoung Jung
-KangMin Kim
+- HoChan Byun
+- JunYoung Jung
+- KangMin Kim
 
 KwangWoon University - Computer Software
