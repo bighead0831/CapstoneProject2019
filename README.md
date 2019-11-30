@@ -22,6 +22,8 @@
 ![structure](./README_Image/structure.png)
 - [시스템 구성도] 현 교통상황을 라즈베리파이로 촬영 후, 빠른 계산을 위해 사양 좋은 컴퓨터로 실시간으로 영상을 전송한다. 해당 컴퓨터에서 각 도로당 차량을 `YOLOv3`로 인식하여 차량 수를 서버로 보낸다. 서버에서 각 도로의 차량 수를 토대로 효율적인 교통흐름을 위해 신호등을 제어한다.
 
+<img src = './README_Image/night.png' width = '200'/>
+<img src = './README_Image/lunch.png' width = '200'/>
 ![night](./README_Image/night.png) ![lunch](./README_Image/lunch.png)
 - [디스플레이] 출퇴근, 한적한 낮, 새벽 시간별로 차량의 수와 주변환경 을 조절하였으며, 경기도 교통DB센터에서 2017년 교통분석을 바탕으로 차량속도를 상황에 따라 차등적으로 적용했다. 또한, 횡단보도를 건너는 보행자도 차량과 마찬가지로 상황에 따라 다르게 적용했다.
 ![result](./README_Image/result.png)
