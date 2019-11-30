@@ -37,7 +37,7 @@
 
 ### 3. 적용 기술 및 라이브러리
 - 디스플레이는 `C#`환경에서 `Unity`를 이용하여 구현하였다.
-- 카메라는 `Python`환경에서 `imagezmq`을 이용하여 인식용 컴퓨터로 실시간 영상을 전송하고, 인식용 컴퓨터에서 `OpenCV`, [`Darknet`](https://pjreddie.com/darknet/yolo/)을 이용하여 차량 인식을 구현했다.
+- 카메라는 `Python`환경에서 [`imagezmq`](https://github.com/jeffbass/imagezmq)을 이용하여 인식용 컴퓨터로 실시간 영상을 전송하고, 인식용 컴퓨터에서 `OpenCV`, [`Darknet`](https://pjreddie.com/darknet/yolo/)을 이용하여 차량 인식을 구현했다.
 - 서버는 `JAVA`환경에서 사거리 신호 정책을 세웠으며, 디스플레이와 인식용 컴퓨터와 `JSON`으로 통신한다. 
 
 YOLOv3모델에 1,030개의 차량이 Bounding Box로 [Labeling](https://github.com/tzutalin/labelImg)된 Image Data를 이용하여 `Custom Weights file`(https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)을 Training하였다.
