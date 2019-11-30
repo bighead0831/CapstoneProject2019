@@ -2,10 +2,10 @@
 ## [KwangWoon University - Computer Software](http://cs.kw.ac.kr/)
 
  [Contributor]
-- Prof. DongHo Lee
-- HoChan Byun
-- JunYoung Jung
-- KangMin Kim
+- *Prof. DongHo Lee*
+- *HoChan Byun*
+- *JunYoung Jung*
+- *KangMin Kim*
 
 # *Intelligent Traffic Signal Using a Small Computer*
 ## Usage
