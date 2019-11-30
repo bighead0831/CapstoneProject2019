@@ -32,7 +32,7 @@
 
 #### [카메라] 
 디스플레이를 `Raspberry Pi` 한 대로 촬영하고, `imagezmq` 라이브러리 를 이용하여 촬영한 영상을 실시간으로 인식용 컴퓨터로 보내 각 영역(도로)별 로 차량을 `YOLOv3`로 인식한다. 인식한 차량의 수는 소켓통신을 통해 `JSON` 파일로 서버에게 전달한다.
-<img src = './README_Image/result.png' width = '500'/>
+<img src = './README_Image/result.png' width = '400'/> <img src = './README_Image/result2.png' width = '400'/>
 
 
 #### [서버] 
