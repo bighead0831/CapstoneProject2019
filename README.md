@@ -2,7 +2,7 @@
 ## [KwangWoon University - Computer Software](http://cs.kw.ac.kr/)
 
  [Contributor]
-- Pf. DongHo Lee
+- Prof. DongHo Lee
 - HoChan Byun
 - JunYoung Jung
 - KangMin Kim
