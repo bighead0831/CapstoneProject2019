@@ -14,7 +14,7 @@
 4. Run RaspberryPI Camera
 
 ## Information
-[intro video](https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be)
+### [intro video](https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be)
 ### 1. 기획 배경 및 개발 동기
 사거리는 출퇴근 시간, 한적한 낮, 새벽시간 등 차량 수에 상관 없이 시간대에 따라 고정된 신호 주기로 교통흐름이 통제된다. 그로 인해 불필요한 대기시간이 발생하여 효율적인 차량 흐름에 방해가 된다. 이미 비슷한 선행 기술로 도로에 차량검지기를 매설하여 측정하는 *ITS(Intelligent Transport System)* 이나, 6년간 축적한 사거리 데이터를 토대로 차량을 통제하는 암스테르담의 ITS가 있다. 그러나 선행기술들은 대부분 고비용이 요구되는 기술이다. 우리는 저렴한 비용으로 초소형컴퓨터 `Raspberry Pi`를 이용하여 차량의 대기시간을 감소시켜, 원활한 사거리 교통환경을 만들고자 기획을 하게 되었다.
 
@@ -40,4 +40,4 @@ YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 
 위의 그림은 지능화된 정책을 적용했을 때의 대기시간 그래프와 기존 정책을 적용했을 때의 대기시간 그래프이다. Night2보다 Night1의 평균 대기시간이 확연히 줄어들었음을 볼 수 있다.
 카메라를 통해 차량을 인식하여 적용한 정책을 실제 도로에 적용하면 더욱 원활한 교통흐름을 결과로 낳을 수 있을 것으로 기대된다.
 
-## [*`Weight`파일은 해당 링크에 업로드되어 있음*](https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)
+### [`Weight`파일은 해당 링크에 업로드되어 있음](https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)
