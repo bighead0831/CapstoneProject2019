@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f2f82f0-7015-4ad3-afe5-8d48f7be32ab" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2943">
+              <caret line="4458" column="87" selection-start-line="4458" selection-start-column="87" selection-end-line="4458" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DrawingPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReceiveThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WaitThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1843">
+              <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InputThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CarInfoRe</find>
+      <find>receiveBuffer</find>
+      <find>Time</find>
+      <find>CAR</find>
+      <find>c_socket2</find>
+      <find>CarInfoRE</find>
+      <find>parser1</find>
+      <find>parser</find>
+      <find>hor 직</find>
+      <find>obj =</find>
+      <find>obj2</find>
+      <find>지금 시작</find>
+      <find>ver 좌회</find>
+      <find>people_info</find>
+      <find>직진 중</find>
+      <find>hor_up = re</find>
+      <find>지금</find>
+      <find>gethor</find>
+      <find>gettime</find>
+      <find>time_info_</find>
+      <find>500</find>
+      <find>Days</find>
+      <find>Total_car_Hor_down_2</find>
+      <find>setT</find>
+      <find>Mode_now</find>
+      <find>getMode</find>
+      <find>repaint</find>
+      <find>Days&quot;:2</find>
+      <find>Days&quot;:1</find>
+      <find>Total_Car_Ver_Left_Night</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ReceiveThread.java" />
+        <option value="$PROJECT_DIR$/src/InputThread.java" />
+        <option value="$PROJECT_DIR$/src/DrawingPanel.java" />
+        <option value="$PROJECT_DIR$/src/WaitThread.java" />
+        <option value="$PROJECT_DIR$/src/Reader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="494" />
+    <option name="y" value="9" />
+    <option name="width" value="1373" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575085707091" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled13" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reader" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f2f82f0-7015-4ad3-afe5-8d48f7be32ab" name="Default Changelist" comment="" />
+      <created>1551855711616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551855711616</updated>
+      <workItem from="1551855714839" duration="7056000" />
+      <workItem from="1551920132756" duration="552000" />
+      <workItem from="1552189037484" duration="7251000" />
+      <workItem from="1552881630674" duration="4154000" />
+      <workItem from="1553915809990" duration="2806000" />
+      <workItem from="1554113476526" duration="753000" />
+      <workItem from="1556633957693" duration="931000" />
+      <workItem from="1556680254588" duration="125000" />
+      <workItem from="1557063304766" duration="12000" />
+      <workItem from="1557549492271" duration="3779000" />
+      <workItem from="1557553761398" duration="109000" />
+      <workItem from="1558507158991" duration="911000" />
+      <workItem from="1559113735209" duration="7010000" />
+      <workItem from="1560567869030" duration="9690000" />
+      <workItem from="1560578196774" duration="4550000" />
+      <workItem from="1560651343143" duration="6182000" />
+      <workItem from="1560736650635" duration="2117000" />
+      <workItem from="1560842024629" duration="1105000" />
+      <workItem from="1560932592527" duration="881000" />
+      <workItem from="1562647846305" duration="1452000" />
+      <workItem from="1562904181828" duration="2634000" />
+      <workItem from="1563353758429" duration="5034000" />
+      <workItem from="1563367121572" duration="2540000" />
+      <workItem from="1563419288674" duration="1309000" />
+      <workItem from="1563778320795" duration="6420000" />
+      <workItem from="1564101430133" duration="1766000" />
+      <workItem from="1564145817979" duration="3810000" />
+      <workItem from="1564197853626" duration="5862000" />
+      <workItem from="1564220172997" duration="510000" />
+      <workItem from="1564369107638" duration="7296000" />
+      <workItem from="1564386664922" duration="300000" />
+      <workItem from="1566964925516" duration="3816000" />
+      <workItem from="1567091334245" duration="6894000" />
+      <workItem from="1567128371892" duration="1424000" />
+      <workItem from="1567193933689" duration="1741000" />
+      <workItem from="1567277142552" duration="2292000" />
+      <workItem from="1567322016504" duration="812000" />
+      <workItem from="1568034429161" duration="1168000" />
+      <workItem from="1568518747608" duration="546000" />
+      <workItem from="1568865939965" duration="637000" />
+      <workItem from="1569548642548" duration="1046000" />
+      <workItem from="1569639619433" duration="7527000" />
+      <workItem from="1569729115054" duration="671000" />
+      <workItem from="1570042415327" duration="11379000" />
+      <workItem from="1570098276422" duration="622000" />
+      <workItem from="1570158415057" duration="6401000" />
+      <workItem from="1570506178947" duration="6588000" />
+      <workItem from="1570534470398" duration="2034000" />
+      <workItem from="1570681323789" duration="5402000" />
+      <workItem from="1570709361243" duration="5065000" />
+      <workItem from="1570740687258" duration="7633000" />
+      <workItem from="1570849110283" duration="9595000" />
+      <workItem from="1570947112161" duration="2986000" />
+      <workItem from="1570968850591" duration="547000" />
+      <workItem from="1571022727390" duration="6144000" />
+      <workItem from="1571387118066" duration="503000" />
+      <workItem from="1571546799700" duration="151000" />
+      <workItem from="1571896826904" duration="4256000" />
+      <workItem from="1571981439877" duration="3553000" />
+      <workItem from="1571985124433" duration="1857000" />
+      <workItem from="1571987057772" duration="18000" />
+      <workItem from="1572152141168" duration="3324000" />
+      <workItem from="1572253069388" duration="30000" />
+      <workItem from="1572319787244" duration="14621000" />
+      <workItem from="1572442537106" duration="302000" />
+      <workItem from="1572491327694" duration="8862000" />
+      <workItem from="1572788052585" duration="1321000" />
+      <workItem from="1572834693861" duration="10049000" />
+      <workItem from="1573172902432" duration="2256000" />
+      <workItem from="1573175536321" duration="2591000" />
+      <workItem from="1573178323308" duration="9992000" />
+      <workItem from="1575084727898" duration="41000" />
+      <workItem from="1575084797553" duration="888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="256492000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="494" y="9" width="1373" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022848438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7997672" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.8342362" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.26977247" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1130064" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31419286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SocketTestReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/src/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2943">
+          <caret line="4458" column="87" selection-start-line="4458" selection-start-column="87" selection-end-line="4458" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawingPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReceiveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WaitThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-simple-1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
