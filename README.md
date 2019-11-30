@@ -40,7 +40,7 @@
 - 카메라는 `Python`환경에서 [`imagezmq`](https://github.com/jeffbass/imagezmq)을 이용하여 인식용 컴퓨터로 실시간 영상을 전송하고, 인식용 컴퓨터에서 `OpenCV`, [`Darknet`](https://pjreddie.com/darknet/yolo/)을 이용하여 차량 인식을 구현했다.
 - 서버는 `JAVA`환경에서 사거리 신호 정책을 세웠으며, 디스플레이와 인식용 컴퓨터와 `JSON`으로 통신한다. 
 
-YOLOv3모델에 1,030개의 차량이 Bounding Box로 [Labeling](https://github.com/tzutalin/labelImg)된 Image Data를 이용하여 `Custom Weights file`(https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)을 Training하였다.
+YOLOv3모델에 1,030개의 차량이 Bounding Box로 [Labeling](https://github.com/tzutalin/labelImg)된 Image Data를 이용하여 [`Custom Weights file`](https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)을 Training하였다.
 810개의 데이터셋은 `Raspberry Pi` 카메라로 찍어 Downgrade된  이미지로 구성되어 있고 220개의 데이터는 디스플레이에 출력되는 영상 원본을 토대로 이미지 데이터셋을 구성했다.
 각 도로의 영역에서 인식된 차량의 수를 서버로 보낸다.
 
