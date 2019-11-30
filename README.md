@@ -24,9 +24,11 @@
 
 <img src = './README_Image/night.png' width = '400'/> <img src = './README_Image/lunch.png' width = '400'/>
 - [디스플레이] 출퇴근, 한적한 낮, 새벽 시간별로 차량의 수와 주변환경 을 조절하였으며, 경기도 교통DB센터에서 2017년 교통분석을 바탕으로 차량속도를 상황에 따라 차등적으로 적용했다. 또한, 횡단보도를 건너는 보행자도 차량과 마찬가지로 상황에 따라 다르게 적용했다.
-![result](./README_Image/result.png)
+
+<img src = './README_Image/result.png' width = '500'/>
 - [카메라] 디스플레이를 `Raspberry Pi` 한 대로 촬영하고, `imagezmq` 라이브러리 를 이용하여 촬영한 영상을 실시간으로 인식용 컴퓨터로 보내 각 영역(도로)별 로 차량을 `YOLOv3`로 인식한다. 인식한 차량의 수는 소켓통신을 통해 `JSON` 파일로 서버에게 전달한다.
-![resolving](./README_Image/resolving.png)
+
+<img src = './README_Image/resolving.png' width = '600'/>
 - [서버] `Raspberry Pi`(카메라)로부터 얻은 교통 정보(차량 수, 대기시간 등)를 실시간으로 취득, 종합하여 차량들의 대기시간을 최소화할 수 있는 교통정책을 지시하고, 날짜, 시간대 등 정보를 인식하고 그에 맞는 최적의 정책을 분배한다.
 
 ### 3. 적용 기술 및 라이브러리
