@@ -27,7 +27,7 @@
 
 ### 3. 적용 기술 및 라이브러리
 - 디스플레이는 `C#`환경에서 `Unity`를 이용하여 구현하였다.
-- 카메라는 `Python`환경에서 `imagezmq`을 이용하여 인식용 컴퓨터로 실시간 영상을 전송하고, 인식용 컴퓨터에서 `OpenCV`, `Darknet`을 이용하여 차량 인식을 구현했다.
+- 카메라는 `Python`환경에서 `imagezmq`을 이용하여 인식용 컴퓨터로 실시간 영상을 전송하고, 인식용 컴퓨터에서 `OpenCV`, [`Darknet`](https://pjreddie.com/darknet/yolo/)을 이용하여 차량 인식을 구현했다.
 - 서버는 `JAVA`환경에서 사거리 신호 정책을 세웠으며, 디스플레이와 인식용 컴퓨터와 `JSON`으로 통신한다. 
 
 YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 이용하여 Custom Weights file을 Training하였다.
@@ -40,4 +40,4 @@ YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 
 위의 그림은 지능화된 정책을 적용했을 때의 대기시간 그래프와 기존 정책을 적용했을 때의 대기시간 그래프이다. Night2보다 Night1의 평균 대기시간이 확연히 줄어들었음을 볼 수 있다.
 카메라를 통해 차량을 인식하여 적용한 정책을 실제 도로에 적용하면 더욱 원활한 교통흐름을 결과로 낳을 수 있을 것으로 기대된다.
 
-### [`Weight`파일은 해당 링크에 업로드되어 있음](https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)
+### [`Weight`](https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing)파일은 해당 링크에 업로드되어 있음
