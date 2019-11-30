@@ -1,6 +1,11 @@
 # CapstoneProject2019
-
- 2019 Capstone Design Project
+`2019 Capstone Design Project`
+-  KwangWoon University - Computer Software
+ 
+ [Contributor]
+- HoChan Byun
+- JunYoung Jung
+- KangMin Kim
 
 # *Intelligent Traffic Signal Using a Small Computer*
 [Usage]
@@ -38,10 +43,3 @@ YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 
 [intro video] : https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be
 
 [*Weight파일은 해당 링크에 업로드되어 있음*] : https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing
-
-[Contributor]
-- HoChan Byun
-- JunYoung Jung
-- KangMin Kim
-
-KwangWoon University - Computer Software
