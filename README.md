@@ -2,8 +2,7 @@
 
  2019 Capstone Design Project
 
-*Intelligent Traffic Signal Using a Small Computer*
-
+# *Intelligent Traffic Signal Using a Small Computer*
 [Usage]
 1. Run Unity Program to simulate traffic situation
 2. Run Server
