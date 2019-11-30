@@ -16,7 +16,7 @@
 ## Information
 
 ### Intro Video
-[![Video Label](http://img.youtube.com/vi/scfMT4KhBmE/2.jpg)](https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be)
+[![Video Label](http://img.youtube.com/vi/scfMT4KhBmE/0.jpg)](https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be)
 
 ↑↑↑Click↑↑↑
 
