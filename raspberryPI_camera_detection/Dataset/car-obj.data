@@ -1,6 +1,0 @@
-classes = 5
-train = data/car-train.txt
-valid = data/car-test.txt
-names = data/car-obj.names
-backup = backup/
-

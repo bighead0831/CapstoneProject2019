@@ -1,7 +1,0 @@
-classes = 5
-train = data/train.txt
-valid = data/train.txt
-names = data/car.names
-backup = backup/
-
-./darknet detector calc_anchors train/data.data -num_of_clusters 9 -width 320 -height 320

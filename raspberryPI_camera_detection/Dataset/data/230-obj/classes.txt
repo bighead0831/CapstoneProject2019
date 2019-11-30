@@ -1,5 +1,0 @@
-truck
-person
-bird
-bus
-car
