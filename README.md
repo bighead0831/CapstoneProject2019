@@ -15,7 +15,7 @@
 
 ## Information
 
-### Intro Video
+### Intro Video ↓↓↓Click↓↓↓
 [![Video Label](http://img.youtube.com/vi/scfMT4KhBmE/0.jpg)](https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be)
 
 ### 1. 기획 배경 및 개발 동기
