@@ -1,5 +1,5 @@
 # Capstone Design Project 2019
-KwangWoon University - Computer Software (http://cs.kw.ac.kr/)
+## KwangWoon University - [Computer Software](http://cs.kw.ac.kr/)
 
  [Contributor]
 - HoChan Byun
