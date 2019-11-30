@@ -36,7 +36,9 @@ YOLOv3모델에 1,030개의 차량이 Bounding Box로 Labeling된 Image Data를 
 위의 그림은 지능화된 정책을 적용했을 때의 대기시간 그래프와 기존 정책을 적용했을 때의 대기시간 그래프이다. Night2보다 Night1의 평균 대기시간이 확연히 줄어들었음을 볼 수 있다.
 카메라를 통해 차량을 인식하여 적용한 정책을 실제 도로에 적용하면 더욱 원활한 교통흐름을 결과로 낳을 수 있을 것으로 기대된다.
 
-intro video : https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be
+[intro video] : https://www.youtube.com/watch?v=scfMT4KhBmE&feature=youtu.be
+
+[*Weight파일은 해당 링크에 업로드되어 있음*] : https://drive.google.com/drive/folders/1p-jVpYC6uQBFaD1Gr5y6Z7JUIxv96Ufh?usp=sharing
 
 [Contributor]
 - HoChan Byun
