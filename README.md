@@ -1,6 +1,5 @@
-# CapstoneProject2019
-`2019 Capstone Design Project`
-"KwangWoon University - Computer Software"
+# Capstone Design Project 2019
+KwangWoon University - Computer Software
 
  [Contributor]
 - HoChan Byun
